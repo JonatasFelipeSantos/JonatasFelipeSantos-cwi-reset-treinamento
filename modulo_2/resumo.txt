@@ -1,1 +1,82 @@
-Exercicios
+MODULO 2 
+
+1 video da Aula 1
+ 
+niveis de teste: 
+unidade, integração, sistema, regressão, funcional, estrutural
+
+	tecnicas de teste
+
+	caixa branca (estrutural)
+	caixa preta (teste comportamento )
+	teste de experiencia
+	
+
+
+2 video da aula 1 
+
+	tecnicas de teste baseadas na experiencia
+
+		* Suposição de Erro 
+		* Teste Exploratório 
+		* Teste Baseado em Checklist 
+ 
+3 video da aula 1 
+
+GUTS-RS Técnicas de Teste de Caixa-Preta
+
+	CATEGORIAS DE TÉCNICAS DE TESTE 
+
+	CAIXA PRETA (ENTRADAS E SAÍDAS SEM REFERÊNCIA A SUA ESTRUTURA INTERNA)
+
+	* PARTICIONAMENTO DE EQUIVALÊNCIA 
+	* ANÁLISE DE VALOR LIMITE
+	* TABELA DE DECISÃO
+	* PAIRWISE
+	* TESTE DE TRANSIÃO DE ESTADO
+	* TESTE DE CASO DE USO 
+
+
+	CAIXA BRANCA (ESTRUTURA E NO PROCESSAMENTO DENTRO DO OBJETO DE TESTE)
+
+	BASEADAS NA EXPERIÊNCIA (CONHECIMENTO DOS ENVOLVIDOS PARA PROJETAR, IMPLEMENTAR E EXECUTAR O TESTES) 
+
+
+
+
+4 video da aula 1 MATERIAL COMPLEMENTAR 
+
+   	QArentena - Técnicas de Caixa Preta
+
+	 3 TIPOS DE TECNICAS DE TESTE 
+
+		* CAIXA PRETAS 
+ 			- ANALISE DE VALORES LIMITES (TESTAR OS VALORES VIZINHOS EM QUE OCORRE UMA MUDANÇA DE COMPORTAMENTO)	
+			- PARTIÇÕES DE EQUIVALÊNCIA()
+			- TABELA DE DECISÃO() 
+			- TRANSIÇÃO DE ESTADO() 
+
+		
+
+		* CAIXA BRANCA 
+		* EXPERIÊNCIA 
+
+	 2 OBJETIVOS
+
+		- IDENTIFICAR QUANTOS TESTES TEM O CENARIO?
+		- QUAIS SÃO ESSES TESTE?
+
+
+
+
+
+
+-------------------------------------
+
+
+Exercício:
+
+    1 - Cite 2 técnicas de teste de caixa preta.
+
+    2 - O que você entende por testes de caixa preta e testes de caixa branca?
+
