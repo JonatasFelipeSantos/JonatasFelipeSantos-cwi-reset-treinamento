@@ -78,5 +78,26 @@ Exercício:
 
     1 - Cite 2 técnicas de teste de caixa preta.
 
+	* PARTICIONAMENTO DE EQUIVALÊNCIA 
+	* ANÁLISE DE VALOR LIMITE
+	* TABELA DE DECISÃO
+	* PAIRWISE
+	* TESTE DE TRANSIÃO DE ESTADO
+	* TESTE DE CASO DE USO 
+
     2 - O que você entende por testes de caixa preta e testes de caixa branca?
+
+	R: Teste de caixa preta tem por finalidade ver o comportamento, enquanto o de caixa branca o foco está em sua estrutura, codificação.  
+
+
+Gabarito: 
+
+
+    1 - Seguem algumas técnicas possívels de serem utilizadas:
+        Partição de equivalência
+        Valor limite
+        Tabela de decisão
+        Diagrama de estado
+
+    2 - Testes de Caixa preta são um tipo de teste baseado em comportamento da aplicação, enquanto Testes de Caixa branca são um tipo de teste baseado na estrutura da aplicação, onde temos acesso ao código, por exemplo.
 
