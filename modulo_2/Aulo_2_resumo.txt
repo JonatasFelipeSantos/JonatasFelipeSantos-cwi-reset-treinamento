@@ -1,4 +1,22 @@
+Resumo do Video Pirâmide de Testes | O que é e pra que serve?
+
+                MANUAL    
+ 	"UI"	  $   TESTE END 2 END (MAIS CARO) USER FACE
+      "SERVICE"  $$$  TESTE INTEGRAÇÃO 
+        "UNIT"  $$$$$ TESTE UNIDADE  (MAIS BARATO)  IDEAL FAZER MAIS
+
+Resposta: Serve para ter um parametro onde demostra a forma ideal de ser realizar os teste e se dividir, tendo como base da piramide os teste unitarios, seguidos pelos testes de integração e depois por ponta a ponta. Notando sempre que os teste unitarios são mais baratos e rapidos de fazer, enquanto os teste de end two end são os mais caros.  
+
+
+Forma errada de ser feito 
+
+                  MANUAL
+       "UI"       $$$$$ TESTE END 2 END (MAIS CARO) USER FACE
+    "SERVICE"      $$$	INTEGRAÇÃO
+      "UNIT"	    $	UNIDADE  (MAIS BARATO)
+
 Resumo do video - Pirâmide de Testes - Início Rápido em Teste de Software
+
 
 ## COMPLEMENTAR
 
@@ -6,7 +24,7 @@ Resumo do video - Pirâmide de Testes - Início Rápido em Teste de Software
 					     - VALIDAÇÃO - GARANTIR QUE ESTAMOS CONSTRUINDO A COISA CERTO	
 
 
-	 "UI"	  $   TESTE END E END (MAIS CARO) 
+	 "UI"	  $   TESTE END 2 END (MAIS CARO) 
       "SERVICE"  $$$  TESTE INTEGRAÇÃO 
         "UNIT"  $$$$$ TESTE UNITARIO  (MAIS BARATO)  IDEAL FAZER MAIS 
 
