@@ -1,0 +1,28 @@
+MODULO 03 - Aula 02 - Curso de Lógica de programação e algoritmos - Aula #2 - Como o computador entende as coisas?
+
+
+ LIGUAGEM BAIXA NIVEL - MAS PROXIMA DE MAQUINA 
+ LIGUAGEM DE ALTO NIVEL - NECESSARIO UM INTERPRETADOR/COMPILAR  
+
+MATERIAL COMPLEMENTAR: 
+
+
+	1. Conceito de linguagem de programação
+
+Linguagem de Programação é uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas (software).                                              
+	2. Programador(a)
+
+Programar, na prática, é escrever um texto que será transformado em um software. Esse texto deve ser escrito em uma linguagem de programação e é chamado de código, mas não é um código lido apenas por uma máquina, é um código que pode ser lido por um ser humano. Para quem sabe inglês é ainda mais legível, pois várias linguagens de programação usam palavras nesse idioma, como if, else, do, while, integer, etc. Quem escreve códigos em linguagens de programação é chamado de programador(a) ou desenvolvedor(a).
+
+
+	3. Exemplos de linguagens de programação
+
+Possivelmente você já ouviu falar de várias. No começo deste post existe uma imagem com algumas delas. Javascript, C++, Ruby, PHP, Python, Java, C e C# são exemplos de linguagens de programação.
+
+Algumas linguagens do mundo de TI não são linguagens de programação, como HTML e CSS. Elas são usadas para estruturação e estilização, respectivamente, de uma página web, .
+
+	5. Algoritmo
+
+Um bloco de código que contém uma sequência de instruções do que o software deve fazer é chamado de algoritmo, termo muito usado na computação.
+
+Um algoritmo pode ser escrito em diferentes linguagens, inclusive em algumas conceituais que não funcionam de verdade, chamadas de pseudocódigo.

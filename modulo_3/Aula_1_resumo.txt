@@ -1,0 +1,54 @@
+MODULO 03 - Aula 01 - Introdução à lógica de programação
+
+
+
+Se segunda a sexta horario == 5h00 despertador tocar
+	entao abrir os olhos. 
+	Pegar o celular e desligar o despertador
+	levantar e ir ao banheiro
+	abrir a porta e entrar no banheiro
+	entrar no box e ligar o chuveiro 
+	pegar o sabonete e se limpar 
+	após concluir o banho desligar o chuveiro 
+	pegar a toalha e se secar 
+	sair do box 
+	ir até a pia e pegar a pasta e abrir  
+	pegar a escova de dente e passar pasta na escova 
+	escova os dentes. 
+	após concluir colocar a roupa e ir para o 	trabalho. 
+	fim 
+
+senão continuar dormindo. 
+fim 
+
+
+Gabarito de exemplo:
+
+Dificilmente duas pessoas fazem um algoritmo igual, mesmo que elas estejam resolvendo o mesmo problema. Não te preocupe se tua solução ficou diferente da nossa, isto é apenas um primeiro exercício. 😊
+
+Se o despertador tocou Então
+  desligar o despertador
+
+levantar da cama
+caminhar até a cozinha
+abrir a geladeira
+
+Se tem leite Então
+  fazer café com leite
+Senão
+  fazer café preto
+
+Enquanto estiver com fome
+  tomar o café da manhã
+
+caminhar até o banheiro
+
+Se a porta estiver fechada Então
+  abrir a porta
+
+entrar no banheiro
+escovar os dentes
+caminhar até o quarto
+trocar de roupa
+ir para o trabalho
+ 
