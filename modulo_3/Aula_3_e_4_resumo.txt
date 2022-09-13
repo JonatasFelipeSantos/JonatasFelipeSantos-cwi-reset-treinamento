@@ -1,0 +1,158 @@
+MODULO 03 - AULA 03 - Curso de Lógica de programação e algoritmos - Aula #3 - Hello World - Programador Br. 
+
+VIDEO ONDE MOSTRA UM POUCO DAS LINGUAGEM DE PROGRAMAÇÃO E SUAS SEMELHANÇAS. 
+
+site Repl.it vc pode escolher varias liguagens de programação e programa é compilado no navegador. Tambem sendo possivel programa pelo Google Chrome conforme tutorial. 
+
+----------------------------------------------
+
+MODULO 03 - AULA 04 - Lógica de Programação - Aula 03 - Tipos de dados, Variáveis, Constantes e Instruções
+
+
+ALGORITMOS SÃO COMPOSTOS POR INSTRUÇÕES E DADOS.
+
+INSTRUÇÕES MANIPULAM OS DADOS PARA CHEGAR AO RESULTADO DESEJADO. 
+
+TIPOS DE DADOS:
+	1 - INTEIRO: SÃO AQUELES NUMÉRICOS POSITIVOS OU NEGATIVOS COM EXCEÇÃO DOS NÚMEROS FRACIONÁRIOS. 
+		
+		EXEMPLOS: 	
+			* NA SALA EXISTEM _10_ CADEIRAS.
+			* EU COMPREI _5_ CALÇAS. 
+
+	2 - REAL: COMPREENDE OS NÚMEROS POSITIVOS, NEGATIVOS E FRACIONÁRIOS.
+
+		EXEMPLOS: 
+			* O PISO SALARIAL DO SETOR DE CRIAÇÃO É DE R$ _73,56_.
+			* A LARGURA DA CAMA É _0,88_ CM.
+		
+	3 - CARACTER(STRING): COMPREENDE LETRAS, NÚMEROS E SÍMBOLOS ESPECIAIS. ESSA SEQUÊNCIA DE CARACTERES DEVE SER LIMITADAS POR ASPAS ("").
+
+		EXEMPLOS: 
+			* ENTREGUE NA "RUA DAS FLORES 145"
+ 
+	4 - LOGICO(BOOLEANO): SÃO AQUELES QUE PODEM ASSUMIR SOMENTE DOIS VALORES: VERDADEIRO OU FALSO. 
+
+		EXEMPLOS: 		
+			* A JANELA PODE ESTAR _ABERTA_ OU _FECHADA_ .
+
+
+VARIÁVEIS: UMA VARIÁVEL É UM ESPAÇO RESERVADO NA MEMÓRIA DO COMPUTADOR PARA ARMAZENAR UM TIPO DE DADO DETERMINADO.
+
+EXEMPLOS: 
+	* NOME: CARACTER
+	* IDADE: INTEIRO 
+	* ALTURA: REAL
+	* CASADO: LOGICO
+
+REGRAS
+
+	1 - O PRIMEIRO CARACTERE DO NOME DE UMA VARIÁVEL NÃO PODERÁ SER, EM HIPÓTESE ALGUMA UM NÚMERO; SEMPRE DEVERÁ SER UMA LETRA. 
+	2 - O NOME DE UMA VARIÁVEL NÃO PODERÁ POSSUIR ESPAÇOS EM BRANCO. 
+	3 - O NOME DE UMA VARIÁVEL NÃO PODERÁ SER UMA PALAVRA RESERVADA(UMA INSTRUÇÃO OU COMANDO);
+	4 - NÃO PODERÃO SER UTILIZADOS OUTROS CARACTERES A NÃO SER LETRAS, NÚMEROS E SUBLINHADO(UNDERSCORE). 
+
+
+CONSTANTES: UMA CONSTANTE É UM ESPAÇO RESERVADO NA MEMÓRIA DO COMPUTADOR PARA ARMAZENAR UM TIPO DE DADO DETERMINADO. NÃO SE MODIFICA DURANTE A EXECUÇÃO DE UM PROGRAMA. 
+
+	EXEMPLOS: 
+		* O VALOR DO NÚMERO PI 
+		* A VELOCIDADE DA LUZ 
+		* 5
+		* "NÃO FUME"
+
+INSTRUÇÕES: AS INSTRUÇÕES OU COMANDOS, SÃO REPRESENTADAS POR UM CONJUNTO DE PALAVRAS CORRESPONDENTES A LINGUAGEM DE PROGRAMAÇÃO UTILIZADA, PARA QUE O COMPUTADOR POSSA INTERPRETAR E EXECUTAR AS INSTRUÇÕES. 
+
+----------------------------------
+
+MODULO 03 - AULA 04 - Javascript Aula 01 - Variáveis (Conceitos Básicos)
+
+
+----------------------------------------------------
+
+Material complementar:
+
+Importante:
+
+    Toda variável tem um nome;
+    Uma variável tem/recebe um valor;
+    O símbolo = indica que um valor está sendo atribuído à variável. Para testar se uma variável é igual a outra, deve-se usar ==.
+
+…
+
+Tipos de variáveis:
+
+    Numérico: valores numéricos positivos ou negativos, podendo ter valores fracionários se necessário (muitas linguagens tratam números inteiros e fracionários como tipos diferentes; não é o caso de Javascript). Ex.:
+
+    idade = 30
+    ano = 2020
+    temperatura = -5.2
+    saldoConta = 1157.48
+    pi = 3.14159265359
+
+    Caracter: também conhecido como string, são variáveis que podem ter qualquer valor, numérico, textual ou com caracteres especiais. Seu valor é sempre colocado entre aspas. Ex.:
+
+    endereco = "Avenida dos 15, nº 985 - CEP: 9876-532"
+    programa = "CWI Reset: reset, restart, go!"
+    paragrafo = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+    Lógico: também conhecido como booleano, são variáveis que só têm dois valores: true (verdadeiro) e false (falso). Ex.:
+
+    menorDeIdade = false
+    aprovado = true
+
+--------------------------------------------------------------------------
+
+
+Exercício:
+
+Repare na variável apresentacao mostrada a seguir. Ela é uma string que representa um texto que pode mudar conforme o valor de outras variáveis.
+
+Identifique e crie todas as variáveis necessárias para que o texto de apresentacao seja exibido sem erros. Depois, crie a variável apresentacao exatamente como mostrado a seguir e a imprima da seguinte forma: console.log(apresentacao).
+
+apresentacao = "Meu nome é " + nomeCompleto + " (sou conhecido[a] como " + apelido + ") e tenho " + idade + " anos. Nasci no dia " + dataNascimento + ", na cidade de " + localNascimento + ". Tenho " + altura + "m de altura e atualmente estou " + (trabalhando ? "empregado" : "desempregado") + "."
+
+Dica: você deve criar as demais variáveis antes de criar a variável apresentacao.
+
+Após fazer o exercício, dá uma conferida no nosso exemplo também.
+
+
+RESPOSTA: feito pelo navegador: 
+
+let nomeCompleto = "Jonatas Felipe dos Santos" 
+undefined
+let apelido = "Wolf"
+undefined
+let idade = "33"
+undefined
+let dataNascimento = "04/01/89"
+undefined
+let localNascimento = "Rio de Janeiro"
+undefined
+let altura = "1,69"
+undefined
+let trabalhando = "empregrado"
+undefined
+
+let apresentacao = "Meu nome é " + nomeCompleto + " (sou conhecido[a] como " + apelido + ") e tenho " + idade + " anos. Nasci no dia " + dataNascimento + ", na cidade de " + localNascimento + ". Tenho " + altura + "m de altura e atualmente estou " + trabalhando + "."
+
+
+Gabarito: 
+
+O código a seguir foi executado diretamente no navegador Chrome, mas você pode fazê-lo em qualquer outra ferramenta conforme já mencionado nas aulas. 😊
+
+nomeCompleto = "Jonatã Jhuhnyior da Silva"
+apelido = "Jhonny"
+idade = 18
+dataNascimento = "01/01/2003"
+localNascimento = "Ilhéus/BA"
+altura = 1.75
+trabalhando = false
+
+apresentacao = "Meu nome é " + nomeCompleto + " (sou conhecido[a] como " + apelido + ") e tenho " + idade + " anos. Nasci no dia " + dataNascimento + ", na cidade de " + localNascimento + ". Tenho " + altura + "m de altura e atualmente estou " + (trabalhando ? "empregado" : "desempregado") + "."
+
+console.log(apresentacao)
+
+
+
+ 
