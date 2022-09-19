@@ -1,0 +1,18 @@
+MODULO 05 - AULA 02 - 1. Iniciando com Cypress em 2022
+
+https://youtu.be/fNcFvZv1YmY
+
+VOLTADO PARA APLICAÇÕES WEB.
+
+ 
+MODULO 05 - AULA 02 - 2. Cypress na prática, passo a passo (2022)
+
+https://youtu.be/yK4g_fZwR9c
+
+
+MODULO 05 - AULA 02 - 3. Cypress - utilizando o Page Objects
+
+https://youtu.be/iJgzwu9Haw4
+
+
+

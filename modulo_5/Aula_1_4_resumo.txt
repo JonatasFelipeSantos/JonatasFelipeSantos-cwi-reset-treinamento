@@ -1,0 +1,4 @@
+MODULO 05 - AULA 01 - 4. Quando criar testes automatizados? É melhor automatizar durante a sprint ou depois?
+
+SPRINT 
+AUTOSPRINT 
