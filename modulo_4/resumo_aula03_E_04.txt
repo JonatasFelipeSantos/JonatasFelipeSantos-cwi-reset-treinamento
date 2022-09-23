@@ -1,0 +1,31 @@
+MODULO 04 - AULA 03 - 05. Instalando o Git - Git e Github para Iniciantes
+
+PASSO A PASSO DE INSTALAÇÃO DO GIT EM SUA MAQUINA. 
+
+MODULO 04 - AULA 03 - 06. Configurando o Git - Git e Github para Iniciantes
+
+https://www.youtube.com/watch?v=QF0Cdd8ApRk
+
+MODULO 04 - AULA 03 - 07. Inicializando um repositório - Git e Github para iniciantes
+
+git init - responsavel por inicializar o respositorio. 
+
+
+MODULO 04 - AULA 03 - 08. Utilizando editores no terminal - Git e Github para Iniciantes
+
+resumo de como utilizar o editor vi do proprio git. 
+
+-------------------------------------------------------------------------------------------------------
+
+MODULO 04 - AULA 04 - 09. Ciclo de vida dos arquivos - Git e Github para Iniciantes
+
+	CICLO DE VIDA DOS STATUS DOS ARQUIVOS
+
+		* UNTRACKED - ACABOU DE SER ADICIONADO NO REPOSITORIO, POREM AINDA NÃO FOI VISTO PELO GIT 
+		* UNMODIFIED - ACABOU DE SER ADICIONADO NO GIT  
+		* MODIFIED - ACABOU DE SER MODIFICADO  		
+		* STAGED - AREA QUE VOU MOVIDO PARA STAGED /  PRONTO PARA SER SALVO OU COMMITADO / GIT COMMIT 
+
+
+GIT STATUS - INFORMA O STATUS DO RESPOSITORIO NO MOMENTO 
+

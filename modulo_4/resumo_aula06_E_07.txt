@@ -1,0 +1,36 @@
+MODULO 04 - AULA 06 - 13. Criando repositório remoto - Git e Github para Iniciantes
+
+REPOSITORIO REMOTO - GITHUB 
+
+RESUMO DE COMO CRIAR UM REPOSITORIO NO GITHUB. 
+
+
+MODULO 04 - AULA 06 - 14. Ligando repositório local com remoto - Git e Github para Iniciantes
+
+RESUMO DE COMO ESTÁ FAZENDO LIGAÇÃO DO LOCAL PARA O REMOTO. 
+
+MODULO 04 - AULA 06 - 15. Criando chave SSH - Git e Github para Iniciantes
+
+RESUMO DE COMO UTILIZAR E CRIAR CHAVE SSH E MAQUINAS DIFERENTES / SEM PROBLEMAS DE PERMISSÃO;
+
+
+---------------------------------------------------------------------------------------------------
+
+MODULO 04 - AULA 07 - 16. Enviando mudanças para o remoto - Git e Github para Iniciantes
+
+GIT PUSH/ ORIGIN MASTER - ENVIANDO AS ATUALIZAÇÕES PARA SERVIDOR DO GITHUB.
+
+
+MODULO 04 - AULA 07 - 17. Clonando um repositório - Git e Github para Iniciantes
+
+GIT CLONE = RESUMO DE COMO CLONAR A SUA BASE/REPOSITORIO DE ORIGEM.
+
+
+MODULO 04 - AULA 07 - 18. Fazendo fork de um projeto - Git e Github para Iniciantes 
+
+RESUMO 
+FORK - UTILIZADO PARA COPIAR O TRABALHO DE OUTRA PESSOA E FAZER MELHORIAS PARA DEPOIS ENVIAR COM ESSAS MELHORIAS. UTILIZADO PARA PROJETOS QUE NÃO SÃO DE SUA AUTORIA. 
+
+
+
+

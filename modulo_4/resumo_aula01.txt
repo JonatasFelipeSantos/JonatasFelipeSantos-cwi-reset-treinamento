@@ -1,0 +1,45 @@
+MODULO 04 - O que são Git e Github? 
+
+
+GIT: FERRAMENTA SISTEMA DE CONTROLE DE VERSÃO / PERMITE TRABALHAR OFF-LINE /  
+
+GITHUB: REPOSITORIO / REDE DE CONTATOS / PROGAMADORES 
+
+
+MODULO 04 - O que é Github? 
+
+
+O QUE É O GIT: SISTEMA DE CONTROLE DE VERSÃO.
+
+GITHUB: SITE /REDE SOCIAL / REPOSITORIO/
+
+
+O MOTIVOS PARA UTILIZAR: 
+
+	1 - UM LUGAR NA NUVEM PARA GUARDA SEUS PROJETOS 
+	2 - CONTROLE DE VERSÃO
+	3 - TRABALHO EM EQUIPE 
+	4 - SE ENVOLVER COM OPEN SOURCE 
+	5 - MELHORE O SEU CODIGO 
+	6 - SER NOTADO 
+	7 - VOCE VAI PRECISAR USAR 
+
+
+Git em 15 minutos
+https://try.github.io
+
+Documentação github
+https://help.github.com/articles/git-...
+
+Livro GIT
+https://git-scm.com/book/pt-br/v2
+
+/Esse vídeo foi baseado em um post do Brandon Morelli: https://codeburst.io/number-one-piece...
+
+
+
+COMPLEMENTAR: 
+
+
+Livro de Git
+https://git-scm.com/book/pt-br/v2
